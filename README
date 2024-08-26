@@ -1,7 +1,7 @@
 https://arxiv.org/pdf/2105.01601 mlp mixer
 https://arxiv.org/pdf/2010.11929 img is 16x16
 https://arxiv.org/pdf/2106.10270 how to train your vit
-Do not decrease model size, focus on increasing patch size if possible. If possible download a pretrained model as it is both running time is faster and you get better results. Therefore adapt your data into a standard form for better results. 
+Do not decrease model size, focus on increasing patch size if possible. If possible download a pretrained model as it is both running time is faster and you get better results. Transfer learning is also okay, but needs large amount of data as supplemental. Therefore adapt your data into a standard form for better results. 
 
 
 https://arxiv.org/pdf/2106.01548 WHEN VISION TRANSFORMERS OUTPERFORM RESNETS WITHOUT PRE-TRAINING
